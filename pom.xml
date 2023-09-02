@@ -6,7 +6,7 @@
 
   <groupId>com.github.wnameless.apt</groupId>
   <artifactId>apt-constant-generator</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>apt-constant-generator</name>
   <description>Annotation Processing Tool for Java Constant generating</description>
@@ -140,7 +140,7 @@
         <configuration>
           <serverId>ossrh</serverId>
           <nexusUrl>https://oss.sonatype.org/</nexusUrl>
-          <autoReleaseAfterClose>false</autoReleaseAfterClose>
+          <autoReleaseAfterClose>true</autoReleaseAfterClose>
         </configuration>
       </plugin>
       <plugin>
