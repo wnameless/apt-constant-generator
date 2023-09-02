@@ -4,7 +4,7 @@ apt-constant-generator
 =============
 Annotation Processing Tool for Java Constant generating.
 
-## `Goal` - generating classes of Constants based on Java class name
+## `Goal` - generating classes of Constants based on Java class names
 Java Constants(public static final) are widely used during development, however they are lack of flexibility. This apt-constant-generator provides a workaround toward this common issue.
 
 ## `Purpose` - easier refactoring and maintenance by utilizing Java Constants
