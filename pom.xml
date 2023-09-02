@@ -6,7 +6,7 @@
 
   <groupId>com.github.wnameless.apt</groupId>
   <artifactId>apt-constant-generator</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>apt-constant-generator</name>
   <description>Annotation Processing Tool for Java Constant generating</description>
